@@ -1,0 +1,25 @@
+.textomenu {
+  font-family: 'Hind Guntur', sans-serif;
+  font-weight: 700;
+  font-size: 90px;
+}
+
+.textonav {
+  font-family: 'Hind Guntur', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.fondo {
+    background-image: url('../img/molino.jpg');
+    background-size: cover;
+    background-position: bottom;
+}
+
+.textcolor {
+  color: white;
+}
+
+.textohover:hover {
+  color: #DDDA66;
+}
